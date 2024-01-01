@@ -30,3 +30,6 @@
 - **Other**
   1. [Grad School Resources by Kalpesh Krishna](https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html)
   2. [Some insightful data on some of the Top-Tier schools by Jeff Huang](https://jeffhuang.com/computer-science-open-data/#bias-in-computer-science-rankings)
+ 
+- **Application Fee Waivers (CS)**
+  1. https://github.com/KaiserWhoLearns/CS-PhD-Application-fee-waivers
